@@ -29,6 +29,7 @@ Aun así, puedo contarte lo que hice:
 
 🌱 **Actualmente estoy aprendiendo:**
 Patrones de diseño para pruebas (Page Object Model).
+
 Integración básica con herramientas de CI/CD.
 
 
