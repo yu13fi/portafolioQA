@@ -27,11 +27,13 @@ Aun así, puedo contarte lo que hice:
 
 "Fui parte activa de equipos ágiles, donde la calidad no era una etapa, sino una responsabilidad compartida."
 
-🌱 **Actualmente estoy aprendiendo:**
-Patrones de diseño para pruebas (Page Object Model).
+> 🌱 *Actualmente estoy aprendiendo:*
 
-Integración básica con herramientas de CI/CD.
+- *Patrones de diseño para pruebas (Page Object Model)*: Organizando mejor mis pruebas automatizadas para mejorar mantenibilidad y reutilización.
 
+- *Integración básica con herramientas de CI/CD*: Explorando cómo conectar pruebas con pipelines automatizados.
+
+- *Metodologías Ágiles y su impacto en QA*: Comprendiendo el rol del tester en equipos ágiles y cómo aportar valor continuo.
 
 🔥  **¿Por qué este portafolio?**
 Porque quiero dejar de esperar el “momento ideal” y empezar a mostrar lo que sé hacer.
@@ -39,7 +41,7 @@ Porque creo en la mejora continua, y este espacio es mi forma de documentar, apr
 Porque estoy construyendo no solo una carrera, sino una identidad profesional sólida.
 
 📚 **Formación y Certificaciones**
-Tester QA Manual
-Análisis y Diseño de Casos de Pruebas
-Testing de Webservices con SOAP UI
-Introducción a la Programación
+- Tester QA Manual
+- Análisis y Diseño de Casos de Pruebas
+- Testing de Webservices con SOAP UI
+- Introducción a la Programación
