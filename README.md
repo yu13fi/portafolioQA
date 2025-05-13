@@ -7,7 +7,7 @@ Llevo este tiempo sumergida en pruebas manuales, funcionales y de regresión. Pe
 
 # 🧠 **Mis habilidades, construidas desde la práctica**
 
-1. Testing funcional, manual y de regresión: testeo con mirada crítica y foco en el usuario final.
+*1. Testing funcional, manual y de regresión: testeo con mirada crítica y foco en el usuario final.
 
 2. Herramientas que uso todos los días: Jira para gestión, Postman y SoapUI para pruebas de APIs, Excel para trazabilidad.
    
