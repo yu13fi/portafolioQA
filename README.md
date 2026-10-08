@@ -1,6 +1,6 @@
 # ¡Hola! Soy Yuri Figueroa Carrero 🤝
 
-![QA Automation](./banner-qa.png)
+![QA Automation](./banner-qa.png.jpeg)
 
 Soy *QA Analyst / QA Automation*, con más de 3 años de experiencia en el área de Quality Assurance.
 
