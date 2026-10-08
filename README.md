@@ -2,7 +2,7 @@
 
 ![QA Automation](./banner-qa.png.jpeg)
 
-Soy *QA Analyst / QA Automation*, con más de 3 años de experiencia en el área de Quality Assurance.
+Soy *QA Analyst / QA Automation*, con más de 3 años manual y 1 año como Automation de experiencia en el área de Quality Assurance.
 
 Llegué al testing por algo que siempre estuvo presente en mí: la curiosidad por entender cómo funcionan las cosas, cuestionarlas, encontrar errores y buscar formas de mejorarlas.
 
