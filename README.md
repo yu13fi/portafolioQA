@@ -1,8 +1,8 @@
-¡Hola! Soy Yuri Figueroa Carrero 🤝
+# ¡Hola! Soy Yuri Figueroa Carrero 🤝
 
-"QA Automation" (https://placehold.co/800x200/6366F1/E0E7FF?text=QA+Automation+%7C+Java+%7C+Selenium)
+![QA Automation](./banner-qa.png)
 
-Soy QA Analyst / QA Automation, con más de 3 años de experiencia en el área de Quality Assurance.
+Soy *QA Analyst / QA Automation*, con más de 3 años de experiencia en el área de Quality Assurance.
 
 Llegué al testing por algo que siempre estuvo presente en mí: la curiosidad por entender cómo funcionan las cosas, cuestionarlas, encontrar errores y buscar formas de mejorarlas.
 
